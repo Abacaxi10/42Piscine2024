@@ -34,11 +34,11 @@ int	ft_atoi(char *str)
 	}
 	return (j * signe);
 }
-
+/*
 #include <stdio.h>
 int main()
 {
 	printf("%d", ft_atoi("--++123"));
 	return (0);
 }
-
+*/
